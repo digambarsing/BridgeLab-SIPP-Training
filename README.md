@@ -1,4 +1,4 @@
-Welcome to the `core-java` branch of BridgeLabz-SIPP-Training repository!  
+Welcome to the `core-java' branch of BridgeLabz-SIPP-Training repository!  
 This branch focuses on foundational Java concepts through structured practice programs and examples.
 
 This branch is divided into the following key areas:
